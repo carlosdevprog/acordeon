@@ -1,0 +1,13 @@
+html{
+    font-size: 62.5%;
+    background-color: #E5E5E5;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+}
